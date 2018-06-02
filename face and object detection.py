@@ -7,6 +7,8 @@ import cv2
 
 # https://github.com/niranjanreddy891/Face-and-Eye-detection/blob/master/face_detect.xml
 face_cascade = cv2.CascadeClassifier('E:/Face and object detection/face_detection.xml')
+
+
 # https://github.com/niranjanreddy891/Face-and-Eye-detection/blob/master/eye_detection.xml
 eye_cascade = cv2.CascadeClassifier('E:/Face and object detection/eye_detection.xml')
 
