@@ -1,7 +1,8 @@
 This requires numpy and opencv libraries
 
 Step 1: Install opencv
-If you are using pip, install it using pip install opencv
+If you are using pip, install it using 
+pip install opencv
     
 
 Step 2: Install numpy
