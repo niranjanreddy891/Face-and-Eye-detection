@@ -15,5 +15,5 @@ This has been tested on win-7 64 bit with python-3.6.4 installed.
 
 
 
-Note: This requires a working webcam in your pc/laptop
+Note: This requires a webcam in your pc/laptop
 
