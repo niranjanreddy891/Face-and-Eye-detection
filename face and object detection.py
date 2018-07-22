@@ -2,6 +2,8 @@
 
 import numpy as np
 import cv2
+import pytorch
+import tensorflow as tf
 
 # https://github.com/niranjanreddy891/Face-and-Eye-detection
 
